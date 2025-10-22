@@ -45,4 +45,12 @@ Traces alignment to the duration of the shortest one to ensure consistent compar
 Temporal distribution (Raster Plot) of detected peaks in the original full-length traces (black traces) respect to their analyzed segments (Dotted lines represent the time of the shorter traces)
 ![alt tag](images/RasterPlot_2.png)
 
+## License
+
+This project is licensed under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html).
+
+## Citation
+
+If you are going to use this code in a publication, please kindly cite:
+
 
