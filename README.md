@@ -1,6 +1,16 @@
 # Hy_CP_Sorting
-Electrophysiological analysis and contraction pulse (CP) sorting from MEA recordings in Hydra
+This repository contains the MATLAB code developed for the  electrophysiological analysis of Multi-Electrode Array (MEA) recording in **Hydra vulgaris* 
 
+## Description
+The code permits to extract the extracts the main electrophysiological parameters, perform the contraction pulse (CP) sorting and compare different datasets from MEA traces recorded in vivo in **H. vulgaris* polyps. 
+
+## Prerequisites
+- Matlab version 
+
+## Installation and Running Instructions
+
+ 
+## Usage Examples
 ## CP Sorting and Feature extraction 
 
 Contraction Pulses (CP) detection and feature extraction were performed from MEA recordings. First and second derivatives were calculated using the centered finite difference method for equally spaced data.
