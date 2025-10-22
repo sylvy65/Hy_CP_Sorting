@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code in a publication, please cite it as follows."
+authors:
+  family-names: "Santillo"
+  given-names: "Silvia"
+title: "Hy_CP_Sorting"
+version: "1.0"
+doi: "10.XXXX/zenodo.XXXXXX"
+date-released: "2025-10-22"
