@@ -15,7 +15,7 @@ authors:
   orcid: "https://orcid.org/0000-0003-1447-7611"
 
 title: "Decoding Hydra bioelectrical activity by microelectrode array"
-version: 1.0.0
+version: 1.0.2
 doi: "10.5281/zenodo.17424682"
 date-released: "2025-10-22"
 url: "https://github.com/sylvy65/Hy_CP_Sorting/tree/main"
