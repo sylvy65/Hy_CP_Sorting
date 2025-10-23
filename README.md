@@ -43,6 +43,16 @@ Temporal distribution (Raster Plot) of detected peaks in the original full-lengt
 
 This project is licensed under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html).
 
+## Contributions
+
+The following researchers contributed to develope, optimize and improve the code:
+
+- [Silvia Santillo](https://orcid.org/0000-0002-4076-0173) – original code development and analysis design  
+- [Martina Blasio](https://orcid.org/0000-0001-7548-5565) – algorithm refinements and testing
+- [Claudia Tortiglione](https://orcid.org/0000-0003-1447-7611) – supervision of result quality  
+
+If you would like to contribute, please fork this repository and submit a pull request.
+
 ## Citation
 
 If you are going to use this code in a publication, please kindly cite:
