@@ -4,6 +4,12 @@ authors:
 - family-names: "Santillo"
   given-names: "Silvia"
   orcid: "https://orcid.org/0000-0002-4076-0173"
+- family-names: "Blasio"
+  given-names: "Martina"
+  orcid: "https://orcid.org/0000-0001-7548-5565"
+- family-names: "Tortiglione"
+  given-names: "Claudia"
+  orcid: "https://orcid.org/0000-0003-1447-7611"
 title: "Electrophysiological analysis and contraction pulse (CP) sorting from MEA recordings in Hydra vulgaris"
 version: 1.0
 doi: 
