@@ -49,8 +49,8 @@ The following researchers contributed to develope, optimize and improve the code
 
 - [Silvia Santillo](https://orcid.org/0000-0002-4076-0173) – original code development and analysis design  
 - [Martina Blasio](https://orcid.org/0000-0001-7548-5565) – algorithm refinements and testing
+- [Giuseppina Tommasini](https://orcid.org/0000-0001-6604-0097) – Curation of code publication
 - [Claudia Tortiglione](https://orcid.org/0000-0003-1447-7611) – supervision of result quality
-- [Giuseppina Tommasini](https://orcid.org/0000-0001-6604-0097) – Curation of code publication    
 
 If you would like to contribute, please fork this repository and submit a pull request.
 
