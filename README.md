@@ -58,5 +58,4 @@ If you would like to contribute, please fork this repository and submit a pull r
 
 If you are going to use this code in a publication, please kindly cite:
 
-Santillo, S., Blasio, M., & Tortiglione, C. (2025). Electrophysiological analysis and contraction pulse (CP) sorting from MEA recordings in Hydra vulgaris (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.17424682
-
+Santillo, S., Blasio, M., Tommasini, G., & Tortiglione, C. (2025). Electrophysiological analysis and contraction pulse (CP) sorting from MEA recordings in Hydra vulgaris (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.17424682
