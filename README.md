@@ -4,12 +4,6 @@ This repository contains the MATLAB code developed for the  electrophysiological
 ## Description
 The code permits to extract the main electrophysiological parameters, perform the contraction pulse (CP) sorting and compare different datasets from MEA traces recorded in vivo in *H. vulgaris* polyps. 
 
-## Prerequisites
-- Matlab version 
-
-## Installation and Running Instructions
-
- 
 ## Usage Examples
 ## 1.CP Sorting and Feature extraction 
 
